@@ -1,6 +1,6 @@
 Kelsee Keys
 CIS25
-The application you plan to build
-A short description of the application
+Hello World
+The app will produce Hello World
 Completed Module 1
-Instructions for running your application when it becomes available
+Click link or download file
